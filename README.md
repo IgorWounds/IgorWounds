@@ -14,7 +14,6 @@
 <br />
 
 ---
-<br />
 
 ### The quote I live by:
 
@@ -36,11 +35,10 @@
 
 ---
 
-<br />
-
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
 <br />
+
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="26px" height="26px"></a>
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="TF" width="26px" height="26px"></a>
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="Torch" width="26px" height="26px"></a>
@@ -68,9 +66,6 @@
 <br /> 
 
 ---
-
-<br />
-
 <h3 align="center">👨‍💻 Repositories 👨‍💻</h3>
 <br>
 <div width="100%" align="center">
