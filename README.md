@@ -1,12 +1,10 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=igorwounds.visitor-badge&left_color=purple&right_color=yellow) [![Repos Badge](https://badges.pufler.dev/repos/igorwounds)](https://badges.pufler.dev)
-
 ## Greetings, I'm Igor 👋 
 
 ### A Data Scientist, Psychologist and Entrepreneur with a passion for problem solving.
 <br />
 
 - 🔭 I use my free time to build products that enhance the quality of life of people around the globe
-- 🌟 Working more than 3 years in the FINTECH industry
+- 🌟 Working more than 4 years in the FINTECH industry
 - 🌱 I’m currently learning Graph Neural Networks and Rust
 - [📜](https://algotrading101.com/learn/) You can read my Algotrading101 blog posts here
 - 📫 [Contact me](mailto:igor.radovanovic@algotrading101.com) 
@@ -61,7 +59,7 @@
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="Kubernetes" width="26px" height="26px"></a>
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" width="26px" height="26px"></a>
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="26px" height="26px"></a>
-<a><img src="https://www.pngall.com/wp-content/uploads/10/TerraUSD-Crypto-Logo-PNG-Pic.png" alt="Terra" width="26px" height="26px"></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" width="26px" height="26px"></a>
 
 <br /> 
 
