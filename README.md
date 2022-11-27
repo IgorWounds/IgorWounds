@@ -11,6 +11,7 @@
 - 📫 [Contact me](mailto:igorradovanovic20@gmail.com)
 - :computer: [Personal Website](https://igorradovanovic.com)
 
+
 <br />
 
 ---
@@ -31,8 +32,8 @@
 <br />
 
 ### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-LIST-START -->
+<!-- BLOG-LIST-END -->
 
 ---
 
