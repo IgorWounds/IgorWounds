@@ -1,14 +1,14 @@
-name: Latest blog post workflow
+name: blog-post-workflow
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
+    name: blog-post-workflow
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: IgorWounds/blog-post-workflow@master
+      - uses: ./.github/workflows/blog-post-workflow@master
         with:
           max_post_count: 5
           feed_list: https://algotrading101.com/learn/feed/
