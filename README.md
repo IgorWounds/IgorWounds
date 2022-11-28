@@ -32,8 +32,8 @@
 <br />
 
 ### Latest Blog Posts
-<!-- Algotrading:START -->
-<!-- Algotrading:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
