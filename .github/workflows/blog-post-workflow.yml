@@ -1,8 +1,8 @@
 name: Latest Algotrading101 blog post workflow
 on:
   schedule:
-    # Runs every day
-    - cron: "0 0 * * *"
+    # Runs every two weeks
+    - cron: "0 0 */14 * *"
   workflow_dispatch:
 
 jobs:
