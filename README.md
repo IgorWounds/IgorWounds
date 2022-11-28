@@ -32,8 +32,9 @@
 <br />
 
 ### Latest Blog Posts
-<!-- BLOG-LIST-START -->
-<!-- BLOG-LIST-END -->
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
 
 ---
 
