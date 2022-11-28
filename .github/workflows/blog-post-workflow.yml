@@ -11,9 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: IgorWounds/IgorWounds/blog-post-workflow@master
+      - uses: IgorWounds/blog-post-workflow@master
         with:
-          comment_tag_name: "Algotrading"
           feed_list: "https://algotrading101.com/learn/feed/"
-          commit_message: "Update algotrading101.com blog posts"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
