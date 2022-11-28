@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout
       - name: Fetch Algotrading101.com posts
         uses: IgorWounds/IgorWounds
         with:
