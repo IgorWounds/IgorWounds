@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout
+      - uses: actions/checkout@v1
       - uses: IgorWounds/IgorWounds/blog-post-workflow@master
         with:
           comment_tag_name: "Algotrading"
