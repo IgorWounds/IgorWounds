@@ -1,5 +1,3 @@
-# create a github actions workflow that pulls rss feed blog and updates the readme
-
 name: Update this repo's README
 
 on:
