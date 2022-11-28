@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: IgorWounds/IgorWounds@master
+      - uses: IgorWounds/IgorWounds/.github/workflows/readme-update-actions.yaml
         with:
           feed-url: https://algotrading101.com/learn/feed/
           readme-section: feed
