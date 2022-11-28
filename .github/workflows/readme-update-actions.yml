@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Fetch Algotrading101.com posts
-        uses: IgorWounds/readme-update-actions@v2
+        uses: IgorWounds/IgorWounds@v2
         with:
           max_post_count: 5
           rss_list: "https://algotrading101.com/learn/feed/"
