@@ -44,28 +44,4 @@
 
 <br />
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorwounds&show_icons=true&theme=dark)
-
-
-
-
----
-<h3 align="center">👨‍💻 Repositories 👨‍💻</h3>
-<br>
-<div width="100%" align="center">
-
-  <a align="left" href="https://github.com/IgorWounds/Cluster-Analysis-Machine-Learning-for-Pairs-Trading" title="Cluster Analysis Pairs Trading"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=igorwounds&repo=Cluster-Analysis-Machine-Learning-for-Pairs-Trading&theme=react&border_color=61dafb&border_radius=10"></a>
-
-  <a align="right" href="https://github.com/IgorWounds/speaking_with_plato" title="Speaking With Plato"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=igorwounds&repo=speaking_with_plato&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-
-  <a align="center" href="https://github.com/IgorWounds/AlgoTrading101-Interactive-Brokers-Course-ib_insync-" title="ib_insync Course"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=igorwounds&repo=AlgoTrading101-Interactive-Brokers-Course-ib_insync-&theme=react&border_color=61dafb&border_radius=10"></a>
-
-</div>
-
-<br>
-<h4 align="center">
-  <a href="https://github.com/igorwounds?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<img src="https://github-readme-stats-i66v.vercel.app/api?username=IgorWounds&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" alt="stats graph"  />
