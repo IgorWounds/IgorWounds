@@ -44,4 +44,14 @@
 
 <br />
 
-<img src="https://github-readme-stats-i66v.vercel.app/api?username=IgorWounds&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" alt="stats graph"  />
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=igorwounds&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: midnight-purple)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=igorwounds&show_icons=true"
+  media="(prefers-color-scheme: swift), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=igorwounds&show_icons=true" />
+</picture>
