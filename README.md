@@ -32,11 +32,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-GPT for Finance – An Exploratory Guide](https://algotrading101.com/learn/auto-gpt-finance-guide/?utm_source=rss&utm_medium=rss&utm_campaign=auto-gpt-finance-guide)
 - [VectorBT – An Introductory Guide](https://algotrading101.com/learn/vectorbt-guide/?utm_source=rss&utm_medium=rss&utm_campaign=vectorbt-guide)
 - [Backtesting.py – An Introductory Guide to Backtesting with Python](https://algotrading101.com/learn/backtesting-py-guide/?utm_source=rss&utm_medium=rss&utm_campaign=backtesting-py-guide)
 - [FinanceDatabase Guide – A Comprehensive Database of Financial Symbols &lpar;Python Package&rpar;](https://algotrading101.com/learn/financedatabase-python-guide/?utm_source=rss&utm_medium=rss&utm_campaign=financedatabase-python-guide)
 - [Etherscan API: A step-by-step Guide](https://algotrading101.com/learn/etherscan-api-guide/?utm_source=rss&utm_medium=rss&utm_campaign=etherscan-api-guide)
-- [R Finance – An Econometrics Guide to Stocks](https://algotrading101.com/learn/r-finance-guide/?utm_source=rss&utm_medium=rss&utm_campaign=r-finance-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
