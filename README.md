@@ -6,7 +6,6 @@
 - 🔭 I use my free time to build products that enhance the quality of life of people around the globe
 - 🌟 Working more than 4 years in the FINTECH industry
 - 🌱 I’m currently learning Vim and Rust
-- :milky_way: You can read my Data Spiral blog posts [here](https://dataspiral.blog)
 - 📜 You can read my Algotrading101 blog posts [here](https://algotrading101.com/learn/)
 - 📫 [Contact me](mailto:igorradovanovic20@gmail.com)
 - :computer: [Personal Website](https://igorradovanovic.com)
