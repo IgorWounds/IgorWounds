@@ -1,11 +1,11 @@
 ## Greetings, I'm Igor 👋 
 
-### A Data Scientist, Psychologist and Entrepreneur with a passion for problem solving.
+### A Data Scientist, Psychologist, and Entrepreneur with a passion for problem-solving.
 <br />
 
 - 🔭 I use my free time to build products that enhance the quality of life of people around the globe
 - 🌟 Working more than 4 years in the FINTECH industry
-- 🌱 I’m currently learning Vim and Rust
+- 🌱 I’m currently learning Go
 - 📜 You can read my Algotrading101 blog posts [here](https://algotrading101.com/learn/)
 - 📫 [Contact me](mailto:igorradovanovic20@gmail.com)
 - :computer: [Personal Website](https://igorradovanovic.com)
