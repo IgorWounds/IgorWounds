@@ -32,11 +32,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [QuiverQuant – An Introductory Guide to Alternative Data](https://algotrading101.com/learn/quiverquant-alternative-datguide/?utm_source=rss&utm_medium=rss&utm_campaign=quiverquant-alternative-datguide)
 - [Build a custom backtester with Python](https://algotrading101.com/learn/build-my-own-custom-backtester-python/?utm_source=rss&utm_medium=rss&utm_campaign=build-my-own-custom-backtester-python)
 - [OpenBB Platform – A Complete Guide](https://algotrading101.com/learn/openbb-platform-guide/?utm_source=rss&utm_medium=rss&utm_campaign=openbb-platform-guide)
 - [Mastering Python Linters: A Guide for Developers](https://algotrading101.com/learn/python-linters-guide/?utm_source=rss&utm_medium=rss&utm_campaign=python-linters-guide)
 - [LEAN Engine &lpar;on AWS&rpar; and Interactive Brokers Guide](https://algotrading101.com/learn/lean-engine-aws-interactive-brokers-guide/?utm_source=rss&utm_medium=rss&utm_campaign=lean-engine-aws-interactive-brokers-guide)
-- [Python in Excel – PyXLL vs Microsoft](https://algotrading101.com/learn/python-excel-pyxll-vs-microsoft/?utm_source=rss&utm_medium=rss&utm_campaign=python-excel-pyxll-vs-microsoft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
