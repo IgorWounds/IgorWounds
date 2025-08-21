@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 I use my free time to build products that enhance the quality of life
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently buidling a BJJ Mobile App
 - 📜 You can read my Algotrading101 blog posts [here](https://algotrading101.com/learn/)
 - 📫 [Contact me](mailto:igorradovanovic20@gmail.com)
 - :computer: [Personal Website](https://igorradovanovic.com)
