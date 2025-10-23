@@ -1,11 +1,12 @@
 ## Greetings, I'm Igor 👋 
 
-### A Data Scientist, Psychologist, and Entrepreneur with a passion for problem-solving.
+### A Software Engineer, Psychologist, and Entrepreneur with a passion for problem-solving.
 <br />
 
 - 🔭 I use my free time to build products that enhance the quality of life
-- 🌱 I’m currently buidling a BJJ Mobile App
-- 📜 You can read my Algotrading101 blog posts [here](https://algotrading101.com/learn/)
+- 🌱 I’m currently buidling a BJJ Mobile App called [TapFlow](https://tapflowbjj.com)
+- 📜 Read my BJJ Blog posts [here](https://tapflowbjj.com/blog)
+- 📜 Read my Algotrading101 blog posts [here](https://algotrading101.com/learn/)
 - 📫 [Contact me](mailto:igorradovanovic20@gmail.com)
 - :computer: [Personal Website](https://igorradovanovic.com)
 
