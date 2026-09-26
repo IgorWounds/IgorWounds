@@ -4,8 +4,9 @@
 <br />
 
 - 🔭 I use my free time to build products that enhance the quality of life
-- 🌱 I’m currently building a crossplatform reactive live wallpaper app
-- 🤼‍♂️ I’ve built a crossplatform BJJ Mobile App called [TapFlow](https://tapflowbjj.com)
+- 🌱 I’m currently building my first game
+- 🔭 Created a MacOS and Windows desktop live wallpaper app called [AstrologyGround](https://astrologyground.app)
+- 🤼‍♂️ Created a cross-platform BJJ Mobile App called [TapFlow](https://tapflowbjj.com)
 - 📜 Read my BJJ Blog posts [here](https://tapflowbjj.com/blog)
 - 📜 Read my Algotrading101 blog posts [here](https://algotrading101.com/learn/)
 - 📫 [Contact me](mailto:igorradovanovic20@gmail.com)
